@@ -1,0 +1,47 @@
+.cnt{
+  text-align: center;
+  padding: 10px 200px;
+  background: #ffffff;
+}
+.instructorName{
+    font-size: 1rem;
+    font-family: robotto;
+    color: #606060;
+}
+
+.collegeName{
+  font-size: 0.7rem;
+  font-family: robotto;
+  color: #606060;
+}
+.card{
+  clear: both;
+  border: 1px solid #a0a0a0;
+  text-align: center;
+}
+
+.divider{
+  border-bottom: 1px solid #a0a0a0;
+}
+
+.likeBtn{
+  margin-top: 15px;
+  padding: 10px 31px;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.container{
+  display: flow-root;
+  padding: 10px;
+}
+
+.likes{
+  margin-left: 10px;
+}
