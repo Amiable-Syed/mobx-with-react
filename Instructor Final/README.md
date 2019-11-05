@@ -1,6 +1,4 @@
-# MobX Without Ejecting
-
-You can view the full video explanation here: https://youtu.be/v3sJUzFXhz4
+# MobX Without Ejecting (i.e. project created using create-react-app)
 
 Packages we'll be installing:
 
